@@ -87,6 +87,3 @@ function mySubmitForm(event) {
  * image > FileReader > readAsDatURL> onload
  * toggle si form biar hidden lagi
  */
-
-// ref : https://developer.mozilla.org/en-US/docs/Web/API/FileReader
-// ref : https://www.freecodecamp.org/news/event-bubbling-in-javascript/
